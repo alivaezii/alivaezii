@@ -9,6 +9,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alivaezii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alivaezii&icon=2&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<img align="right" height="100" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b76114n1g96mxbmg04wbr2fc87d2c1fe8xulgcwp2sdhj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
