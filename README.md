@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Master's student at the University of Applied Sciences Vienna.<br> <img align="right" height="50" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b76114n1g96mxbmg04wbr2fc87d2c1fe8xulgcwp2sdhj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> 🌱 I’m currently learning Data Science, Machine Learning, and Cloud Engineering.<br>👯 I want to collaborate on AI and data-driven projects.<br>🤝 I’m eager to solve real-world challenges with data.<br>💬 Ask me about AI, data modeling, and business intelligence.<br>⚡ Fun fact: I love exploring new tech and enjoy a good coffee! 
+🔭 I’m a Master's student at the University of Applied Sciences Vienna.<br> <img align="right" height="50" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b76114n1g96mxbmg04wbr2fc87d2c1fe8xulgcwp2sdhj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> 🌱 I’m currently learning Data Science, Machine Learning, and SecOps.<br>👯 I want to collaborate on AI and data-driven projects.<br>🤝 I’m eager to solve real-world challenges with data.<br>💬 Ask me about DeepLearning, data modeling, and business intelligence.<br>⚡ Fun fact: I love exploring new tech and enjoy a good coffee! 
 
 
 # 💻 Tech Stack:
