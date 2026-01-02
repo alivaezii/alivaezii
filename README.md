@@ -23,5 +23,3 @@ with focus on **Machine Learning**, **Data Science**, and **MLOps**.
 ![MLflow](https://img.shields.io/badge/MLflow-111111?style=flat&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white)
 
-
-
