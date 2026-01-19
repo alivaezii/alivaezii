@@ -4,7 +4,6 @@ Research-oriented MSc student working on **AI-driven** and **data-centric system
 
 with focus on **Machine Learning**, **Data Science**, and **MLOps**.
 
-
 **Interests**
 
 ![DevOps](https://img.shields.io/badge/DevOps-1f2937?style=flat)
